@@ -1,0 +1,99 @@
+/* line 6, assets/sass/modules/_colors.scss */
+.bg-grey {
+  background: #eee;
+}
+
+/* line 9, assets/sass/modules/_colors.scss */
+.bg-pink {
+  background: #db314b;
+}
+
+/* line 12, assets/sass/modules/_colors.scss */
+.bg-blue {
+  background: #283593;
+}
+
+/*-----------------PADDING & MARGIN------------------*/
+/* line 4, assets/sass/partials/_structure.scss */
+.margin-top-5em {
+  margin-top: 6em;
+}
+
+/* line 7, assets/sass/partials/_structure.scss */
+.margin-top-4em {
+  margin-top: 4em;
+}
+
+/* line 10, assets/sass/partials/_structure.scss */
+.margin-top-3em {
+  margin-top: 3em;
+}
+
+/* line 14, assets/sass/partials/_structure.scss */
+.margin-top-2em {
+  margin-top: 2em;
+}
+
+/* line 20, assets/sass/partials/_structure.scss */
+.margin-bot-5em {
+  margin-bottom: 6em;
+}
+
+/* line 24, assets/sass/partials/_structure.scss */
+.margin-bot-2em {
+  margin-bottom: 2em;
+}
+
+/* line 29, assets/sass/partials/_structure.scss */
+.margin-botop-2em {
+  margin: 2em 0 2em 0;
+}
+
+/* line 34, assets/sass/partials/_structure.scss */
+.nopadding {
+  padding: 0 !important;
+}
+
+/* line 38, assets/sass/partials/_structure.scss */
+.pr {
+  padding-right: 15px;
+  padding-left: 0px !important;
+}
+
+/* line 42, assets/sass/partials/_structure.scss */
+.pl {
+  padding-left: 15px;
+  padding-left: 0px !important;
+}
+
+/* line 47, assets/sass/partials/_structure.scss */
+.p-2 {
+  padding: 2em;
+}
+
+/* line 53, assets/sass/partials/_structure.scss */
+.center {
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  /* line 58, assets/sass/partials/_structure.scss */
+  .no-mobile {
+    display: none;
+  }
+}
+@media only screen and (min-width: 769px) {
+  /* line 64, assets/sass/partials/_structure.scss */
+  .no-desktop {
+    display: none;
+  }
+}
+/* line 2, assets/sass/partials/_typography.scss */
+.justify {
+  text-align: justify;
+}
+
+/* line 6, assets/sass/partials/_typography.scss */
+.center {
+  text-align: center;
+}

@@ -1,2 +1,2 @@
-# VirtualWallet
-A simpre wallet app
+# wallet
+A simple wallet app
